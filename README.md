@@ -1,5 +1,6 @@
 # Flanetino Uno
-By Lucas Flaneto
+By Lucas Flaneto 
+Email:lucasflaneto94@gmail.com
 
 
 ## Description
