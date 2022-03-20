@@ -13,7 +13,7 @@ Flanetino uno counts with:micro usb for power and data transder,one led for each
 
 ## Usage
 
-To use the Flanetino board you need to install the [CH340N driver](http://www.wch-ic.com/downloads/CH341SER_ZIP.html) and the [Minicore](https://github.com/MCUdude/MiniCore) AVR core, setting for the minicore are : Atmega328 with  12MHz external Clock.
+To use the Flanetino board you need to install the [CH340N driver](http://www.wch-ic.com/downloads/CH341SER_ZIP.html) and the [Minicore](https://github.com/MCUdude/MiniCore) AVR core, the settings for the minicore are : Atmega328 with  12MHz external Clock.
 
 
 ## Contributing
