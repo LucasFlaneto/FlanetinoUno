@@ -9,7 +9,7 @@ Flanetino uno is a Arduino Uno Remix focused on educational purposes with visual
 
 ## Features
 
-Flanetino uno counts with:micro usb for power and data transder,one led for each power pin(5v and 3V3), one led for each digital pin, one led for each analog pin whose brightness is proportional to the input voltage, 4 NO buttons, buzzer with on-off switch, switch to change between 5V and 3V3 operating voltage, SDA and SCL pins with built in pullup resistor that can be turned on or of by a switch, double rows of pin that allow 2 connections on the same pin if needed  
+Flanetino uno counts with:micro usb for power and data transder,one led for each power pin(5v and 3V3), one led for each digital pin, one led for each analog pin whose brightness is proportional to the input voltage, 4 NO buttons, buzzer with on-off switch, switch to change between 5V and 3V3 operating voltage, SDA and SCL pins with built in pullup resistor that can be turned on or of by a switch, double rows of pin that allow 2 connections on the same pin if needed and one 128kB I2C EEPROM chip.
 
 ## Usage
 
